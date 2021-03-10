@@ -14,14 +14,14 @@ OCRUG understands that these are extraordinary times and we endeavour to keep ou
 
 This workshop is meant to help data professionals transform raw data into compelling dashboards. We will use Tableau Public to learn how to create dashboard reports from a customer complaints dataset. This data will help you better understand the issues financial customers are experiencing with certain products. During this workshop, you can expect to learn how to use Tableau to ingest, transform, visualize, and use data to design a functional dashboard you can publish and share online. These dashboarding concepts can be used with varying types of datasets so you can quickly transform data into usable information. Attendees can expect to learn how to build dashboards in Tableau Public and use the free software to further develop their data visualization skills.
 
-Meeting information:
+# Meeting Information
 * The zoom connection information is: https://oracle.zoom.us/s/99376066187?pwd=Z0pGNXFsR09maXg5NkVQanVjWDJldz09
 * Meeting ID: 9937 606 6187
 * Password: 71771540
 * Dial by your location: +1 669 900 6833 US (San Jose)
 * Find your local number: https://oracle.zoom.us/u/abCl13paS
 
-Environment Setup:
+# Environment Setup
 
 We will be using Public Tableau during this course. You will need to set up a few things on your own computer.
 
