@@ -25,7 +25,7 @@ Environment Setup:
 
 We will be using Public Tableau during this course. You will need to set up a few things on your own computer.
 
-1. Download and install Public Tableau.
+1. Download and install [Public Tableau](https://public.tableau.com/en-us/s/download).
 1. Download the course material and data from the GitHub repository: https://github.com/ocrug/tableau-2021-03-09
 1. If you do not know how to use Git, [download](https://github.com/ocrug/tableau-2021-03-09/archive/master.zip) the course files.
 1. If you do know how to use Git, [clone the repo](https://github.com/ocrug/tableau-2021-03-09/archive/master.zip) onto your computer.
